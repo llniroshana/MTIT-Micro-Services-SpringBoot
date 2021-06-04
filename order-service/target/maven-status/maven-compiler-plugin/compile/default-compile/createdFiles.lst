@@ -1,0 +1,8 @@
+com\sliit\mtit\microservice\orderservice\dto\OrderRequest.class
+com\sliit\mtit\microservice\orderservice\dto\CustomerCreationResponse.class
+com\sliit\mtit\microservice\orderservice\service\OrderServiceImpl.class
+com\sliit\mtit\microservice\orderservice\controller\OrderController.class
+com\sliit\mtit\microservice\orderservice\OrderServiceApplication.class
+com\sliit\mtit\microservice\orderservice\dto\OrderResponse.class
+com\sliit\mtit\microservice\orderservice\SwaggerConfig.class
+com\sliit\mtit\microservice\orderservice\dto\CustomerCreationRequest.class
